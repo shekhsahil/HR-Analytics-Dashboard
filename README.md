@@ -112,7 +112,7 @@ This project is an **HR Analytics Dashboard** built to analyze employee attritio
 HR-Analytics-Dashboard/
 │
 ├── data/                 # HR dataset 
-├── HR_Analytics.pbix     # Power BI dashboard file
+├── HR_Analytics.pbit    # Power BI dashboard file
 ├── images/               # Screenshots of dashboard
 ├── README.md             # Project documentation
 
