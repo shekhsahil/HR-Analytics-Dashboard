@@ -1,7 +1,3 @@
-Here’s a detailed GitHub README for your HR Analytics Dashboard based on the image you provided:
-
----
-
 # **HR Analytics Dashboard**
 
 ## 📌 **Overview**
@@ -105,7 +101,8 @@ This project is an **HR Analytics Dashboard** built to analyze employee attritio
 
 ## 📷 **Dashboard Preview**
 
-![HR Analytics Dashboard](./path-to-image.png)
+<img width="1166" height="661" alt="image" src="https://github.com/user-attachments/assets/367fb06b-cc8c-406c-bce6-eb8014b41418" />
+
 
 ---
 
