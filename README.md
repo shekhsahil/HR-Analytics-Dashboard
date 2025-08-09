@@ -84,7 +84,7 @@ This project is an **HR Analytics Dashboard** built to analyze employee attritio
 
 ## 📥 **How to Use**
 
-1. Open the `.pbix` file in Power BI Desktop (if included in the repo).
+1. Open the `.pbit` file in Power BI Desktop.
 2. Connect your own HR dataset to the dashboard.
 3. Use slicers and filters (e.g., Department) to customize the analysis.
 
