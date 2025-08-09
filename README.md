@@ -113,6 +113,6 @@ HR-Analytics-Dashboard/
 │
 ├── data/                 # HR dataset 
 ├── HR_Analytics.pbit    # Power BI dashboard file
-├── images/               # Screenshots of dashboard
+├── image/               # Screenshot of dashboard
 ├── README.md             # Project documentation
 
