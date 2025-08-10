@@ -101,7 +101,8 @@ This project is an **HR Analytics Dashboard** built to analyze employee attritio
 
 ## 📷 **Dashboard Preview**
 
-<img width="1166" height="661" alt="image" src="https://github.com/user-attachments/assets/367fb06b-cc8c-406c-bce6-eb8014b41418" />
+<img width="1302" height="734" alt="image" src="https://github.com/user-attachments/assets/9296f16f-14da-4120-833b-6f6256de4209" />
+
 
 
 ---
